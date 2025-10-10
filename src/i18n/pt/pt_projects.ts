@@ -17,7 +17,7 @@ const projects: Projects = {
     {
       name: 'Marketplace e gestão de eventos',
       techstack: ['Java 17 (spring-boot)', 'Postgress', 'FireBase', 'ReactJs (TypeScript)', 'Tailwind CSS'],
-      image: 'providences.webp',
+      image: 'evento.webp',
       description:
         'Projeto ainda em desenvolvimento, por isso não posso fazer descricao dele.',
       src: '',
