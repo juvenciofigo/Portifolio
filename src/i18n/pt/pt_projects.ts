@@ -15,13 +15,22 @@ const projects: Projects = {
       url: 'https://providences.onrender.com/'
     },
     {
-      name: 'Marketplace e gestão de eventos',
-      techstack: ['Java 17 (spring-boot)', 'Postgress', 'FireBase', 'ReactJs (TypeScript)', 'Tailwind CSS'],
-      image: 'evento.webp',
+      name: 'Levezza - Loja Florista (estático)',
+      techstack: ['VueJs', 'Tailwind CSS'],
+      image: 'levezza.webp',
       description:
-        'Projeto ainda em desenvolvimento, por isso não posso fazer descricao dele.',
-      src: '',
-      url: ''
+        'Site estático de uma empresa de venda de flores e fornecimento de serviços de decoração de festas! ',
+      src: 'https://github.com/juvenciofigo/levezza',
+      url: 'https://levezza.vercel.app/'
+    },
+    {
+      name: 'Clone do Spotify web',
+      techstack: ['VueJs', 'Tailwind CSS'],
+      image: 'spotify-clone.webp',
+      description:
+        'Site estático de clone do spotify-web ',
+      src: 'https://github.com/juvenciofigo/Spotify-clone',
+      url: 'https://juvencio-spotify-clone.vercel.app/'
     }
   ],
   // Você pode deixar este array vazio
