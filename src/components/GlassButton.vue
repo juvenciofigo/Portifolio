@@ -25,7 +25,7 @@
 import { useSlots, computed } from 'vue'
 const slots = useSlots()
 const button_sizes: Record<string, string> = {
-  small: ' h-[42px] min-w-[35px] text-sm',
+  small: ' h-[30px] min-w-[35px] text-sm',
   normal: ' h-[50px] min-w-[35px] text-lg',
   large: ' h-[65px] min-w-[35px] text-2xl font-semibold'
 }
