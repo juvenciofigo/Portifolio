@@ -24,11 +24,16 @@ const projects: Projects = {
       url: 'https://levezza.vercel.app/'
     },
     {
-      name: 'Clone do Spotify web',
+      name: 'Gestao e Marketplace)',
+      techstack: ['Java SpringBoot', 'ReactJs', 'Tailwind CSS'],
+      image: 'evento.webp',
+      description: 'App em desevolvimento '
+    },
+    {
+      name: 'Clone do Spotify web (estático)',
       techstack: ['VueJs', 'Tailwind CSS'],
       image: 'spotify-clone.webp',
-      description:
-        'Site estático de clone do spotify-web ',
+      description: 'Site estático de clone do spotify-web ',
       src: 'https://github.com/juvenciofigo/Spotify-clone',
       url: 'https://juvencio-spotify-clone.vercel.app/'
     }
